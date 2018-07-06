@@ -1,0 +1,21 @@
+{
+  "basics":{
+  "co":"this is my strength"
+    },
+  "education":[{
+    "name":"ssc",
+    "institute":"siddartha",
+    "percentage":"92"
+  },
+  {
+    "name": "inter:",
+    "inst":"narayana",
+    "percentage":"97"
+  },
+  {
+    "name": "Btech:",
+    "inst":"aliet",
+    "percentage":"60"
+  }
+  ]
+  }
