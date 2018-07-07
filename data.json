@@ -4,7 +4,7 @@
     },
   "education":[{
     "name":"ssc",
-    "institute":"siddartha",
+    "inst":"siddartha",
     "percentage":"92"
   },
   {
@@ -17,5 +17,17 @@
     "inst":"aliet",
     "percentage":"60"
   }
-  ]
+],
+"tech":[{
+  "name": "operating systems:",
+  "value":"windows, Linux, etc. "
+},
+{
+  "name":"languages:",
+  "value":"HTML5,CSS3,javascript,Angular JS"
+}
+],
+  "achieve":{
+    "details":"I won a price in school"
+    }
   }
